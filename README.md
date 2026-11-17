@@ -6,6 +6,10 @@ F1 Insight Hub turns a relational archive of Formula 1 races into an interactive
 
 > Built as a semantic-search application for AIPI 510: Data Sourcing for Analytics.
 
+## Live Demo
+
+🚀 **[Explore F1 Insight Hub](https://cheney0919-semantic-search-engine-app-rlmon4.streamlit.app/)**
+
 ## Why this project?
 
 Historical race data is usually distributed across tables for races, drivers, constructors, circuits, results, and status codes. This project joins those tables into readable race narratives, embeds each narrative with `all-MiniLM-L6-v2`, and stores the vectors in ChromaDB for similarity search.
